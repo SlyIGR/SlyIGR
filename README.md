@@ -20,7 +20,7 @@
    <a href="(https://www.linkedin.com/in/sylvain-bensimon-702730124/)">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
     </a>
-    <a href="mailto:sylvain.bensimon@gustavrroussy.fr.com">
+    <a href="mailto:sylvain.bensimon@gmail.com">
         <img src="https://img.shields.io/badge/Email-blue?style=flat-square&logo=gmail&logoColor=white" alt="e-mail">
 
         
