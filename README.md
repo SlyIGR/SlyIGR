@@ -17,7 +17,7 @@
   </a>
   </p>
   
-   <a href="(https://www.linkedin.com/in/sylvain-bensimon)">
+   <a href="https://www.linkedin.com/in/sylvain-bensimon-702730124/">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
     </a>
     <a href="mailto:sylvain.bensimon@gmail.com">
